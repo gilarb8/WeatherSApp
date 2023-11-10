@@ -1,4 +1,4 @@
-# Muchamadyja Weather
+# WeatherSApp
 
 This is another project of mine, a simple weather application built with Vanilla JavaScript.
 It allows users to search for weather information based on the city name (must using city name with english).
@@ -20,30 +20,7 @@ It allows users to search for weather information based on the city name (must u
 2. Click the "Search" button to retrieve the weather data.
 3. The current temperature and weather condition will be displayed on the screen.
 
-==================================================
+## License
 
-# Muchamadyja Weather
-
-Ini adalah aplikasi cuaca sederhana yang dibangun dengan Vanilla JavaScript. Aplikasi ini memungkinkan pengguna untuk mencari informasi cuaca berdasarkan nama kota (harus menuliskan nama kota menggunakan bahasa inggris)
-
-## Fitur
-
-- Pengambilan data cuaca secara real-time dari WeatherAPI.
-- Tampilan suhu dan kondisi cuaca saat ini.
-- Fungsi pencarian untuk berbagai kota.
-
-## Instalasi
-
-1. Clone repositori ini atau unduh berkas ZIP.
-2. Buka berkas `index.html` pada web browser.
-
-## Penggunaan
-
-1. Masukkan nama kota yang ingin Anda periksa cuacanya di kotak input.
-2. Klik tombol "Cari" untuk mengambil data cuaca.
-3. Suhu saat ini dan kondisi cuaca akan ditampilkan di layar.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Mozilla Public License Versi 2.0. Untuk informasi lebih lanjut, silakan merujuk ke berkas [LICENSE](LICENSE).
+This project is licensed under the Mozilla Public License Version 2.0. For further information, please refer to the file [LICENSE](LICENSE).
 
